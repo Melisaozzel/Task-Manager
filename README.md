@@ -15,6 +15,7 @@ Redux Toolkit useSelector / useDispatch method is used for state management and 
 
 
  These features can be changed or updated.
+ 
 ![image](https://user-images.githubusercontent.com/56073734/171832866-3e79ced7-95fb-478e-806f-49c0690a708b.png)
 
 ![image](https://user-images.githubusercontent.com/56073734/171832775-ea6cc4c3-e180-44d5-8df6-0c4b95e9258e.png)
