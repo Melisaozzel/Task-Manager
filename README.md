@@ -1,8 +1,9 @@
-# Task-Manager
-Task Manager App with React.js ,
+
+# Task Manager App with React.js 
+This is a dynamic task manager project.
 
 Redux Toolkit useSelector / useDispatch method is used for state management and Material Ui is used as Css Framework in this project.
-This is a dynamic task manager project.
+
 
 ![image](https://user-images.githubusercontent.com/56073734/171832390-074b4f4a-faf4-45b4-9fdb-81c9caa98ce4.png)
 
